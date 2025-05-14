@@ -116,8 +116,6 @@ void hashTable()
 
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     vector<vector<int>> adj;
     int choice;
